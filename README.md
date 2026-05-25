@@ -3,7 +3,7 @@
 Incoming **MSc Risk Management & Financial Engineering** student at **Imperial College London**.  
 CS graduate from Vrije Universiteit Amsterdam (GPA 8.6/10).
 
-I build at the intersection of **quantitative finance** and **computer science** —  
+I build at the intersection of **quantitative finance** and **computer science** -  
 from algorithmic trading strategies to blockchain applications.
 
 ---
@@ -12,7 +12,7 @@ from algorithmic trading strategies to blockchain applications.
 
 | Project | Description |
 |---|---|
-| [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis — Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
+| [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis - Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
 | [Forex Arbitrage](https://github.com/georgeded/forex-arbitrage) | Real-time arbitrage detection using Bellman-Ford negative cycle detection + simulated trading |
 | [BlockFund](https://github.com/georgeded/BlockFund) | Web3 application interacting with blockchain data and real testnet tokens |
 | [AI Workplace Productivity ML](https://github.com/georgeded/ai-workplace-productivity-ml) | Benchmarking regression models (Ridge, XGBoost, Neural Networks) for productivity prediction using simulated annealing hyperparameter optimization (R²=0.88) |
