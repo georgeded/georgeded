@@ -11,7 +11,7 @@ from algorithmic trading strategies to blockchain applications.
 
 | Project | Description |
 |---|---|
-| [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis — Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
+| [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis - Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
 | [Monthly Momentum Portfolio](https://github.com/georgeded/monthly-momentum-portfolio-lab) | Time Series Momentum (TSMOM) strategy with volatility-scaled allocation, live data pipeline and full backtest (Sharpe 1.01, 20.7% annualized) |
 | [Forex Arbitrage](https://github.com/georgeded/forex-arbitrage) | Real-time arbitrage detection using Bellman-Ford negative cycle detection + simulated trading |
 | [BlockFund](https://github.com/georgeded/BlockFund) | Web3 application interacting with blockchain data and real testnet tokens |
