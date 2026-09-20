@@ -1,6 +1,6 @@
 # Hi, I'm Georgios
-Incoming **MSc Risk Management & Financial Engineering** student at **Imperial College London**.  
-CS graduate from Vrije Universiteit Amsterdam (GPA 8.6/10).
+**MSc Risk Management & Financial Engineering** student at **Imperial College London**.  
+CS graduate from Vrije Universiteit Amsterdam (GPA 8.7/10, Cum laude).
 
 I build at the intersection of **quantitative finance** and **computer science** —  
 from algorithmic trading strategies to blockchain applications.
