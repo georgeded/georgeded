@@ -13,6 +13,7 @@ from algorithmic trading strategies to blockchain applications.
 |---|---|
 | [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis - Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
 | [Monthly Momentum Portfolio](https://github.com/georgeded/monthly-momentum-portfolio-lab) | Time Series Momentum (TSMOM) strategy with volatility-scaled allocation, live data pipeline and full backtest (Sharpe 1.01, 20.7% annualized) |
+| [Portfolio Risk Dashboard](https://github.com/georgeded/portfolio-risk-dashboard) | Risk dashboard for a stock portfolio: VaR & CVaR, max drawdown, concentration, risk contribution by position, correlation heatmap and six stress scenarios (market crash, rates, recession, sector, FX, correlation spike). FastAPI backend + Chart.js frontend |
 | [Forex Arbitrage](https://github.com/georgeded/forex-arbitrage) | Real-time arbitrage detection using Bellman-Ford negative cycle detection + simulated trading |
 | [BlockFund](https://github.com/georgeded/BlockFund) | Web3 application interacting with blockchain data and real testnet tokens |
 | [AI Workplace Productivity ML](https://github.com/georgeded/ai-workplace-productivity-ml) | Benchmarking regression models (Ridge, XGBoost, Neural Networks) for productivity prediction using simulated annealing hyperparameter optimization (R²=0.88) |
