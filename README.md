@@ -13,6 +13,7 @@ from algorithmic trading strategies to blockchain applications.
 |---|---|
 | [GA Portfolio Optimization](https://github.com/georgeded/ga-portfolio-optimization) | BSc thesis - Genetic Algorithm for cardinality-constrained portfolio optimization vs MVO & 1/N benchmarks |
 | [Monthly Momentum Portfolio](https://github.com/georgeded/monthly-momentum-portfolio-lab) | Time Series Momentum (TSMOM) strategy with volatility-scaled allocation, live data pipeline and full backtest (Sharpe 1.01, 20.7% annualized) |
+| [Overnight vs intraday returns](https://github.com/georgeded/overnight-intraday-anomaly) (code coming soon) | Do US equity ETFs earn their returns overnight, and is that tradable after costs? SPY, QQQ and IWM, 1993-2025, CRSP data, with a train/validation/test design and a random-night placebo. Python, pandas, statsmodels |
 | [Portfolio Risk Dashboard](https://github.com/georgeded/portfolio-risk-dashboard) | Risk dashboard for a stock portfolio: VaR & CVaR, max drawdown, concentration, risk contribution by position, correlation heatmap and six stress scenarios (market crash, rates, recession, sector, FX, correlation spike). FastAPI backend + Chart.js frontend |
 | [Forex Arbitrage](https://github.com/georgeded/forex-arbitrage) | Real-time arbitrage detection using Bellman-Ford negative cycle detection + simulated trading |
 | [BlockFund](https://github.com/georgeded/BlockFund) | Web3 application interacting with blockchain data and real testnet tokens |
